@@ -1,1 +1,1 @@
-# Servidor Samba
+# Configurações do Servidor Samba
