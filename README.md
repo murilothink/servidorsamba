@@ -51,17 +51,29 @@ Logon Script:
 Profile Path:         \\fsmerenda\caio\profile
 
 Domain:               FSMERENDA
+
 Account desc:
+
 Workstations:
+
 Munged dial:
+
 Logon time:           0
+
 Logoff time:          never
+
 Kickoff time:         never
+
 Password last set:    Qua, 04 Dez 2019 15:35:58 -03
+
 Password can change:  Qua, 04 Dez 2019 15:35:58 -03
+
 Password must change: never
+
 Last bad password   : 0
+
 Bad password count  : 0
+
 Logon hours         : FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 
 
