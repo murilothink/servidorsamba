@@ -76,6 +76,4 @@ Bad password count  : 0
 
 Logon hours         : FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 
-
-[GitHub](http://github.com - automatic!
-[GitHub](https://raw.githubusercontent.com/murilothink/servidorsamba/master/Capturar.PNG)
+![Legenda](https://raw.githubusercontent.com/murilothink/servidorsamba/master/Capturar.PNG)
