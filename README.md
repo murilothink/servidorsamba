@@ -77,3 +77,4 @@ Bad password count  : 0
 Logon hours         : FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 
 
+https://raw.githubusercontent.com/murilothink/servidorsamba/master/Capturar.PNG
