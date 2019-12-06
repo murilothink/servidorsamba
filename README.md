@@ -12,7 +12,9 @@ Obs: 777 vai ser para diretorios publicos na rede. Ou seja todos irão ter permi
 # Criando Usuario no sistema
 root@usuario: sudo adduser -a teste
 
-Criando uma senha do mesmo usuario no Samba. Onde iremos colocar a senha quando fomos acessar a pasta na rede
+# Criando uma senha do mesmo usuario no Samba. 
+
+Iremos colocar a senha quando fomos acessar a pasta na rede
 root@usuario: smbpasswd -a teste
 
 Veja se o usuario foi criado.
