@@ -30,7 +30,4 @@ root@usuario: pdbedit -L -v
 ### Arquivo do pdbedit -L -v 
 
 
-Unix username:        caio
-
-
 ![Legenda](https://github.com/murilothink/servidorsamba/blob/master/Capturara.PNG?raw=true)
