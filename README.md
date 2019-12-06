@@ -27,15 +27,25 @@ Ou para vizualizar melhor:
 root@usuario: pdbedit -L -v  
 
 Unix username:        caio
+
 NT username:
+
 Account Flags:        [U          ]
+
 User SID:             S-1-5-21-1238916857-924684260-3818580937-1011
-Primary Group SID:    S-1-5-21-1238916857-924684260-3818580937-513
+
+Primary Group SID:    S-1-5-21-1238916857-924684260-3818580937-513 
+
 Full Name:
+
 Home Directory:       \\fsmerenda\caio
+
 HomeDir Drive:
+
 Logon Script:
+
 Profile Path:         \\fsmerenda\caio\profile
+
 Domain:               FSMERENDA
 Account desc:
 Workstations:
