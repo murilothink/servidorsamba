@@ -76,4 +76,4 @@ Bad password count  : 0
 
 Logon hours         : FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 
-![Legenda](https://raw.githubusercontent.com/murilothink/servidorsamba/master/Capturar.PNG)
+![Legenda](https://github.com/murilothink/servidorsamba/blob/master/Capturara.PNG?raw=true)
