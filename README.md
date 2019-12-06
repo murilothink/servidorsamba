@@ -26,6 +26,10 @@ Ou para vizualizar melhor:
 
 root@usuario: pdbedit -L -v  
 
+
+#Arquivo do pdbedit -L -v 
+
+
 Unix username:        caio
 
 NT username:
