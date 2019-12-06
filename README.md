@@ -9,6 +9,9 @@ root@usuario: chmod -R 777 /home/caminho/da_pasta ou chmod -R 770 /home/caminho/
  
 Obs: 777 vai ser para diretorios publicos na rede. Ou seja todos irão ter permissão, mas isso deve ser definido no arquivo Global /etc/samba/smb.conf conforme esta no artigo github. Faça um clone dos diretorios.
 
+### Criando grupo
+sudo addgroup nome_grupo
+
 ### Criando Usuario no sistema
 root@usuario: sudo adduser -a teste
 
@@ -31,3 +34,7 @@ root@usuario: pdbedit -L -v
 
 
 ![Legenda](https://github.com/murilothink/servidorsamba/blob/master/Capturara.PNG?raw=true)
+
+### Definindo Usuario no grupo
+
+sudo adduser nome_user ome_grupo
