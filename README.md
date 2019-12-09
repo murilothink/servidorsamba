@@ -44,3 +44,4 @@ sudo adduser nome_user ome_grupo
 sudo chgrp nome_grupo /home/caminho_pasta
 sudo chown root.nome_grupo /home/caminho_pasta
 
+![Legenda](https://raw.githubusercontent.com/murilothink/servidorsamba/master/image.png)
