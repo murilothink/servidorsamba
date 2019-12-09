@@ -38,3 +38,9 @@ root@usuario: pdbedit -L -v
 ### Definindo Usuario no grupo
 
 sudo adduser nome_user ome_grupo
+
+### Chgrp permite a usuários regulares alterar grupos
+
+sudo chgrp nome_grupo /home/caminho_pasta
+sudo chown root.nome_grupo /home/caminho_pasta
+
